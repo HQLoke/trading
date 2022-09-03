@@ -1,0 +1,31 @@
+//@version=1
+// 1. Define strategy settings
+
+strategy(title="DEFAULT", overlay=true, pyramiding=0, 
+		 initial_capital=1000000,
+		 commission_type=strategy.commission.cash_per_order,
+		 commission_value=4, slippage=2)
+
+// 2. Calculate strategy values
+
+
+
+// 3. Output strategy data
+
+
+
+// 4. Determine long trading conditions
+
+
+
+// 5. Determine short trading conditions
+
+
+
+// 6. Submit entry orders
+
+
+
+// 7. Submit exit orders
+
+
